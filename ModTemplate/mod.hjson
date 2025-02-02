@@ -1,0 +1,6 @@
+name: testmod
+displayName: Example Mod
+description: template mod
+author: Atsouky
+version: 0.0.1
+minGameVersion: 144.1
